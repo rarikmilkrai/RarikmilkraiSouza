@@ -1,9 +1,7 @@
 
-<div align="center">
-<img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
 
-# Olá 👋, sou Rarikmilkrai Souza, se sinta em casa. Atualmente estudando JAVA e um pouco de Python!  Cursando Desenvolvimento de Software 🎓.
+<p align='center'><img src='https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif' width='100%' height='350'></p>
+<h1 align='center'>Olá 🖖👨🏾‍💻 sou Rarikmilkrai Souza, se sinta em casa. Atualmente estudando um pouco de Python e alguns Frameworks!🎓</h1>
 
 ## Também pode me encontrar por aqui 💻
 <div>
@@ -13,8 +11,9 @@
 
  # 🚀💻 Dando um passo de cada vez:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  
-✋ Tenha calma! Aos poucos chego lá.
+<a href='https://www.python.org/' target='_blank'>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='40' height='40'>
+</a>
  
 ## Estatísticas do GitHub
   
